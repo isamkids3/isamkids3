@@ -1,5 +1,7 @@
 - I’m @isamkids3
 - CS Student at INTI College Subang
+- Loves coding
+  
 
 
 <!---
