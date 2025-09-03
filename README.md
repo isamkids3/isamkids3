@@ -1,5 +1,5 @@
 - I’m @isamkids3
-- CS Student at INTI College Subang
+- CS @ Heriot-Watt University Malaysia
 - Loves coding
   
 
