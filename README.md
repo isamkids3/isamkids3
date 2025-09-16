@@ -1,6 +1,6 @@
 - I’m @isamkids3
-- CS @ Heriot-Watt University Malaysia
-- Loves coding
+- CS @ Heriot-Watt University 
+- Loves coding and CyberSec
   
 
 
